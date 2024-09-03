@@ -6,4 +6,8 @@
    Download the source code and compile it yourself and setup a way
    to run the program from anywhere in your desktop.
 ## 2. Method:
-   Find a suitable for your system in `RELEASES` and follow the installation instructions.
+   Find a suitable for your system in `Releases` and follow the installation instructions.
+
+Releases:
+v1.0.0
+[ LINUX ](https://github.com/xMo-101/m.todo/releases/tag/v1.0.0)
