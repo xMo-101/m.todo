@@ -8,6 +8,6 @@
 ## 2. Method:
    Find a suitable for your system in `Releases` and follow the installation instructions.
 
-Releases:
-v1.0.0
-[ LINUX ](https://github.com/xMo-101/m.todo/releases/tag/v1.0.0)
+## Releases:
+### v1.0.0  
+### [ [LINUX](https://github.com/xMo-101/m.todo/releases/tag/v1.0.0) ]
