@@ -10,4 +10,4 @@
 
 ## Releases:
 ### v1.0.0  
-### [ [LINUX](https://github.com/xMo-101/m.todo/releases/tag/v1.0.0) ]
+### [[ ~ v1.0.0 ~ ](https://github.com/xMo-101/m.todo/releases/tag/v1.0.0) ]
